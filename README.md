@@ -4,6 +4,9 @@ SQL Server Data Tools is a modern development tool for building SQL Server relat
 
 # Installation
 
-1) Download the Project
-2) Create a database in the Sql Server
-2) Publish the Project 
+1) Download the Project.
+2) Create a database in the Sql Server.
+2) Publish the Project.
+
+# Disclaimer
+ This project is for training and learning purpose only.
