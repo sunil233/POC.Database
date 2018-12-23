@@ -1,5 +1,0 @@
-C:\Sunil_TFS\POC.Angular\POC.Database\bin\Debug\POC.Database.dacpac
-C:\Sunil_TFS\POC.Angular\POC.Database\bin\Debug\WebTimeSheetDatabase.dll
-C:\Sunil_TFS\POC.Angular\POC.Database\bin\Debug\WebTimeSheetDatabase.pdb
-C:\Sunil_TFS\POC.Angular\POC.Database\obj\Debug\WebTimeSheetDatabase.dll
-C:\Sunil_TFS\POC.Angular\POC.Database\obj\Debug\WebTimeSheetDatabase.pdb
